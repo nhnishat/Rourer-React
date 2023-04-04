@@ -4,6 +4,7 @@ import Header from '../Header/Header';
 
 const Home = () => {
 	const navigation = useNavigation;
+
 	return (
 		<div>
 			<Header></Header>
